@@ -120,7 +120,7 @@ The final cleaned text is saved in:
 output/clean.txt
 ```
 
-## 🔄 Text Preprocessing Flow
+##  Text Preprocessing Flow
 
 ```text
 Raw Text
@@ -156,7 +156,7 @@ Clean Text
 Save clean.txt
 ```
 
-## 💻 How to Run
+##  How to Run
 
 ### Step 1: Install NLTK
 
