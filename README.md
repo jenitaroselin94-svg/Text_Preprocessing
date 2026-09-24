@@ -1,10 +1,10 @@
-# 📝 NLP Text Preprocessing
+#  NLP Text Preprocessing
 
-## 📌 Project Description
+##  Project Description
 
 This project demonstrates basic **Natural Language Processing (NLP)** techniques using Python. It reads raw text from a file, analyzes the text, identifies different patterns, and removes unwanted elements through text preprocessing.
 
-## 🎯 Objective
+##  Objective
 
 The main objective of this project is to preprocess raw text by:
 
@@ -24,14 +24,14 @@ The main objective of this project is to preprocess raw text by:
 * Removing extra spaces
 * Saving the cleaned text into an output file
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Regular Expressions (re)**
 * **NLTK**
 * **File Handling**
 
-## 📂 Project Structure
+##   Project Structure
 
 ```text
 NLP-TEXT-PREPROCESSING/
@@ -44,7 +44,7 @@ NLP-TEXT-PREPROCESSING/
     └── clean.txt
 ```
 
-## ⚙️ Features
+##  Features
 
 ### 1. Read Raw Text
 
@@ -182,7 +182,7 @@ After execution, the cleaned text will be stored in:
 output/clean.txt
 ```
 
-## 📤 Sample Output
+##  Sample Output
 
 ```text
 ========== ORIGINAL RAW TEXT ==========
@@ -204,7 +204,7 @@ hello! my name is yuvahri...
 hello my name is yuvahri and i love exploring new technology
 ```
 
-## ✅ Advantages
+##  Advantages
 
 * Simple and easy to understand
 * Removes unwanted text elements
@@ -213,7 +213,7 @@ hello my name is yuvahri and i love exploring new technology
 * Automatically saves the cleaned data
 * Can be applied to different raw text files
 
-## ⚠️ Limitations
+##  Limitations
 
 * Does not perform stemming
 * Does not perform lemmatization
@@ -221,7 +221,7 @@ hello my name is yuvahri and i love exploring new technology
 * Does not perform tokenization using advanced NLP methods
 * Basic regular expressions may not handle every type of text
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 The project can be improved by adding:
 
